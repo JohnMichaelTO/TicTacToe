@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1396423990 source:h:\efrei\l3\semestre_6\aide à la décision\projet\tictactoe\c7-main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"C7-Game.h"
+	"C7-Plateau.h"
+	"C7-IA.h"
+
+1396424950 source:h:\efrei\l3\semestre_6\aide à la décision\projet\tictactoe\c7-game.cpp
+	<iostream>
+	"C7-Game.h"
+	"C7-IA.h"
+	<windows.h>
+
+1396004780 h:\efrei\l3\semestre_6\aide à la décision\projet\tictactoe\c7-game.h
+	"C7-Plateau.h"
+
+1393934418 source:h:\efrei\l3\semestre_6\aide à la décision\projet\tictactoe\c7-plateau.cpp
+	<iostream>
+	"C7-Plateau.h"
+	<windows.h>
+
+1393934460 h:\efrei\l3\semestre_6\aide à la décision\projet\tictactoe\c7-plateau.h
+	<iostream>
+
+1393348788 source:h:\efrei\l3\semestre_6\aide à la décision\projet\tictactoe\c7-arbre.cpp
+	"C7-Arbre.h"
+
+1393348760 h:\efrei\l3\semestre_6\aide à la décision\projet\tictactoe\c7-arbre.h
+	"C7-Noeud.h"
+
+1393348572 h:\efrei\l3\semestre_6\aide à la décision\projet\tictactoe\c7-noeud.h
+	"C7-Plateau.h"
+
+1393425844 source:h:\efrei\l3\semestre_6\aide à la décision\projet\tictactoe\c7-noeud.cpp
+	"C7-Noeud.h"
+	<windows.h>
+
+1396427694 h:\efrei\l3\semestre_6\aide à la décision\projet\tictactoe\c7-ia.h
+	<ctime>
+	"C7-Plateau.h"
+
+1396429030 source:h:\efrei\l3\semestre_6\aide à la décision\projet\tictactoe\c7-ia.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<cmath>
+	"C7-IA.h"
+
+1396005072 source:e:\efrei\l3\semestre_6\aide à la décision\projet\tictactoe\c7-game.cpp
+	<iostream>
+	"C7-Game.h"
+	"C7-IA.h"
+	<windows.h>
+
+1396004780 e:\efrei\l3\semestre_6\aide à la décision\projet\tictactoe\c7-game.h
+	"C7-Plateau.h"
+
+1393934460 e:\efrei\l3\semestre_6\aide à la décision\projet\tictactoe\c7-plateau.h
+	<iostream>
+
+1395669088 e:\efrei\l3\semestre_6\aide à la décision\projet\tictactoe\c7-ia.h
+	<ctime>
+	"C7-Plateau.h"
+
+1395830910 source:e:\efrei\l3\semestre_6\aide à la décision\projet\tictactoe\c7-ia.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"C7-IA.h"
+
+1393934418 source:e:\efrei\l3\semestre_6\aide à la décision\projet\tictactoe\c7-plateau.cpp
+	<iostream>
+	"C7-Plateau.h"
+	<windows.h>
+
+1396005286 source:e:\efrei\l3\semestre_6\aide à la décision\projet\tictactoe\c7-main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"C7-Game.h"
+	"C7-Plateau.h"
+	"C7-IA.h"
+
